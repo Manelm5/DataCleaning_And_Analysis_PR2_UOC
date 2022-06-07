@@ -12,5 +12,7 @@ La actividad ha sido realizada de manera individual por Manuel Muñiz Perálvare
 ## Ficheros del código fuente
 
 - Practica2_Muniz_Manel.ipynb : Documento de cuaderno de Jupyter Notebook (realizado en Python) que efectúa el código completo y los comentarios de la práctica realizada.
+- Practica2_Muniz_Manel.pdf : Documento PDF que explica el código completo y los comentarios de la práctica realizada.
+- Practica2_Muniz_Manel.html : Documento HTML que explica el código completo y los comentarios de la práctica realizada. 
 - supermarket_sales.csv : Archivo original del dataset utilizado.
 - final_supermarket: Archivo final del dataset después de pasar por las tareas de preprocesamiento.
