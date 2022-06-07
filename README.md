@@ -1,6 +1,6 @@
 # DataCleaning_And_Analysis_PR2_UOC
 
-## Práctica 1: Web scraping
+## Práctica 2: Limpieza y análisis de datos
 
 ## Descripción
 
